@@ -1,0 +1,22 @@
+# Ignore everything
+
+*
+!*/
+
+
+
+# But not these files...
+
+!.gitignore
+
+
+!Assets/
+!Assets/**
+
+!ProjectSettings/
+!ProjectSettings/**
+
+!Packages/
+!Packages/**
+
+*.DS_Store*
