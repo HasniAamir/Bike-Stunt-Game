@@ -1,8 +1,3 @@
-/*
- * note: In Unity4 accelerometer axis is changed.
- * you'll need to change everywhere "Input.acceleration.y" to "Input.acceleration.x"
- */
-
 using UnityEngine;
 using System.Collections;
 
